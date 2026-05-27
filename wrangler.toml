@@ -1,0 +1,7 @@
+name = "jeannybrizola"
+compatibility_date = "2025-05-26"
+
+main = "./dist/server/index.js"
+
+[assets]
+directory = "./dist/client"
