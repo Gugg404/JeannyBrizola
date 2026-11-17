@@ -30,3 +30,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Visual Studio
+.vs/
+
+# Dependencias
+node_modules/
+
+# Build
+dist/
+
+# Cloudflare
+.wrangler/
